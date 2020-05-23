@@ -8,6 +8,5 @@ https://vimeo.com/421992060?utm_source=email&utm_medium=vimeo-cliptranscode-2015
 
 # Features
 
-1. User IPFS to upload and download images, video and broadcasting meeting by app.
-2. Use compression algorithm to decrease the size of the image
+User IPFS to upload and download images, video and broadcasting meeting by app.
 
